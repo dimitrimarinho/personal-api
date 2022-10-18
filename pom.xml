@@ -83,8 +83,8 @@
                 <artifactId>maven-compiler-plugin</artifactId>
 
                 <configuration>
-                    <source>1.11</source>
-                    <target>1.11</target> <!-- depending on your project -->
+                    <source>11</source>
+                    <target>11</target> <!-- depending on your project -->
                     <annotationProcessorPaths>
                         <path>
                             <groupId>org.projectlombok</groupId>
