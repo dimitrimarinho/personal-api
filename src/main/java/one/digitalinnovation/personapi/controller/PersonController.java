@@ -1,4 +1,4 @@
-package one.digitalinnovation.personapi.repository.controller;
+package one.digitalinnovation.personapi.controller;
 
 import lombok.AllArgsConstructor;
 import one.digitalinnovation.personapi.dto.request.PersonDTO;
